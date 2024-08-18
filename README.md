@@ -20,9 +20,9 @@ Develop a full-stack application for managing members, with a React frontend Tab
 ## Backend Tasks
 
 1. Implement the following API endpoints:
-   a. `GET /api/members`: Retrieve all active members (base provided)
-   b. `DELETE /api/members/:id`: Delete a single member by ID
-   c. `PUT /api/members`: Update multiple members by their IDs
+   - `GET /api/members`: Retrieve all active members (base provided)
+   - `DELETE /api/members/:id`: Delete a single member by ID
+   - `PUT /api/members`: Update multiple members by their IDs
    
 2. Implement the `deleteOneMember(id)` function to remove a member from the `members` array by their ID.
 
