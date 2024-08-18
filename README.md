@@ -15,7 +15,7 @@
 ---
 
 ## Objective
-Develop a full-stack application for managing members, with a React frontend using Tanstack Table for data display and a Node.js backend with Express for data manipulation. Finally, deploy the frontend to AWS S3 static web hosting.
+Develop a full-stack application for managing members, with a React frontend Table for data display and a Node.js backend with Express for data manipulation. Finally, deploy the frontend to AWS S3 static web hosting.
 
 ## Backend Tasks
 
